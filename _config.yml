@@ -13,33 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ami du peuple
-email: jcoenep@hotmail.com
+title: Shalyn Guthery
+email: skittely@gmail.com
 description: >
-  Journal politique impartial, <br>
-  Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
-  du Moniteur et du Plan de Constitution, etc.
-tagline: vitam impendere vero
-location: Versailles
+  Personal musings of Shalyn Guthery
+tagline: Data Scientist
+location: Des Moines, Iowa
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Jean-Paul Marat
-google_analytics: UA-101394056-1
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "http://sguthery.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Shalyn Guthery
+google_analytics: 
 
 # SEO
 twitter:
-  username: jdatap
+  username: 
 
 logo: /assets/logo.png
 
-lang: fr
+lang: en
 
 facebook:
- app_id: 101766790448070
+ app_id: 
 
 social:
-  name: John Coene
+  name: Shalyn Guthery
   links:
     - https://twitter.com/jdatap
     - https://www.linkedin.com/in/johncoene
